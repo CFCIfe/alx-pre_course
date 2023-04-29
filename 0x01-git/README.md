@@ -1,1 +1,2 @@
-My first dir readme
+My first readme.
+LFG!
